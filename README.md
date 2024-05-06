@@ -11,6 +11,9 @@ Bu hava durumu uygulaması, Türkiye'nin çeşitli illerindeki hava durumu tahmi
 5. Açılan sayfada Türkiye'nin farklı illerinden birini seçin.
 6. Seçtiğiniz ilin hava durumu tahminlerini görebilirsiniz.
 
+![resim1](https://github.com/mehmettfaik/React-ile-hava-durumu-uygulamasi/blob/main/images/resim1.png)
+![resim2](https://github.com/mehmettfaik/React-ile-hava-durumu-uygulamasi/blob/main/images/resim2.png)
+
 ## Kullanılan Teknolojiler
 
 - React.js: Kullanıcı arayüzü oluşturmak için kullanılan bir JavaScript kütüphanesi.
